@@ -71,9 +71,14 @@
 
 ---
 
-# Smart Contracts
+# <center>Smart Contracts <br/><br/> ![](images/smart-contracts.png)</center>
 
 
+---
+
+## Contracts
+
+![](images/
 
 ---
 
