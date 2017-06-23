@@ -71,14 +71,14 @@
 
 ---
 
-# <center>Smart Contracts <br/><br/> ![](images/smart-contracts.png)</center>
-
-
----
 
 ## Contracts
 
-![](images/
+![](images/contract.jpg)
+
+---
+
+# <center>Smart Contracts <br/><br/> ![](images/smart-contracts.png)</center>
 
 ---
 
@@ -86,6 +86,33 @@
 
 ---
 
+
 ## Dev Tools
 
++ MetaMask
++ Truffle
++ Testrpc
++ Mist 
+
 ---
+
+## Example Contracts
+
++ [Hello World](contracts/Hello_world.sol)
++ [One Value Store](contracts/OneValue.sol)
++ [key value store](contracts/KeyValue.sol)
++ [Voting](contracts/voting.sol)
+
+<br>
+
+<sub> [StringUtils](contracts/StringUtils.sol) </sub>
+
+---
+
+### Exercise
+
++ Change the key value store contract such that each key has a owner and only owner can update the content of the key.
+
+---
+
+# Thank you
